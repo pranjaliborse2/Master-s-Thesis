@@ -9,7 +9,7 @@ seasonality impacts the population of virus carrying mosquitoes.
 + The end result of the research is a supervised machine learning model- Decision tree classifier which helps determine the thresholds of rainfall and temperatures beyond which it
   is detrimental to public health as virus surge is noticed beyond these thresholds
 + It could be a crucial tool to determine the yearly statistics of virus spread beforehand and make informed decisions to curb the plausible impacts of the virus.
-+ Below are some of the visual insights about data and findings.
++ Below are some of the visual insights about data, background meteorological analysis and findings.
 ![Screenshot 2023-05-02 235255](https://github.com/user-attachments/assets/47567e66-60ce-42c7-aa6d-75026143d9d1)
 ![Python_Animation_03](https://github.com/user-attachments/assets/f59d6482-5824-4918-97f5-db31118fa34e)
 ![Screenshot 2023-02-28 230121](https://github.com/user-attachments/assets/3d586535-cea9-430c-8e79-0cec6378b519)
