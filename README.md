@@ -11,6 +11,7 @@ seasonality impacts the population of virus carrying mosquitoes.
 + It could be a crucial tool to determine the yearly statistics of virus spread beforehand and make informed decisions to curb the plausible impacts of the virus.
 + Below are some of the visual insights about data and findings.
 ![Screenshot 2023-05-02 235255](https://github.com/user-attachments/assets/47567e66-60ce-42c7-aa6d-75026143d9d1)
+![Python_Animation_03](https://github.com/user-attachments/assets/f59d6482-5824-4918-97f5-db31118fa34e)
 ![Screenshot 2023-02-28 230121](https://github.com/user-attachments/assets/3d586535-cea9-430c-8e79-0cec6378b519)
 ![Screenshot_20230201_112302](https://github.com/user-attachments/assets/546d5c12-9f01-4635-86e5-b905fedbe39a)
 ![Screenshot 2023-04-15 120635](https://github.com/user-attachments/assets/9af1110f-fb0b-4cba-bf40-ac6cc60da305)
